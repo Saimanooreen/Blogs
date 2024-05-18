@@ -1,3 +1,8 @@
+This project makes use of Context Api concept in react.
+It makes use of useContext Hook to create a blog page.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
